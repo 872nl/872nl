@@ -59,18 +59,6 @@ visitor@github:~$ _
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=872nl&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=872nl&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
@@ -93,8 +81,18 @@ visitor@github:~$ _
 
 <div align="center">
 
-### Thanks for visiting 👋
+### Connect with me
 
-⭐ If you like my projects, don't forget to leave a star!
+<a href="https://github.com/872nl">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ Thanks for visiting my profile!
 
 </div>
