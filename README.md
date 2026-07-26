@@ -1,8 +1,8 @@
 <div align="center">
 
-# 872nl
+# Butizada
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Discord+Bot+Developer.;Web+Developer.;Always+Learning."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Discord+Bot+Developer.;Web+Developer.;Always+Learning."/>
 
 </div>
 
@@ -53,7 +53,7 @@ visitor@github:~$ _
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,nodejs,mongodb,discordjs,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,nodejs,mongodb,discordjs,github,vscode"/>
 
 </div>
 
@@ -63,9 +63,9 @@ visitor@github:~$ _
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=872nl&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=872nl&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=872nl&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=872nl&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -81,20 +81,20 @@ visitor@github:~$ _
 
 ---
 
-## 🎵 Spotify
+## 👀 Profile Views
 
 <div align="center">
 
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31todircqv4al6baig55cpgnfmpm&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
+<img src="https://komarev.com/ghpvc/?username=872nl&label=Profile%20Views&color=58A6FF&style=flat"/>
 
 </div>
 
 ---
 
-## 👀 Profile Views
-
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=872nl&label=Profile%20Views&color=0e75b6&style=flat"/>
+### Thanks for visiting 👋
+
+⭐ If you like my projects, don't forget to leave a star!
 
 </div>
