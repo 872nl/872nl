@@ -2,7 +2,7 @@
 
 # 872nl
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Learning+by+building.;Building+useful+software.;Discord+Bot+Developer.;Keep+learning%2C+keep+building." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Discord+Bot+Developer.;Web+Developer.;Always+Learning."/>
 
 </div>
 
@@ -26,11 +26,12 @@ Mission
 
 Current Focus
 ├─ Discord Bots
-└─ Open Source
+└─ Web Development
 
 Environment
 ├─ Python
-└─ Node.js
+├─ Node.js
+└─ MongoDB
 
 visitor@github:~$ _
 ```
@@ -48,6 +49,8 @@ visitor@github:~$ _
 
 ---
 
+## 🛠️ Tech Stack
+
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,nodejs,mongodb,discordjs,github,vscode" />
@@ -56,10 +59,42 @@ visitor@github:~$ _
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=872nl&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=872nl&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=872nl&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=872nl&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9"/>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=872nl&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+## 🎵 Spotify
+
+<div align="center">
+
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31todircqv4al6baig55cpgnfmpm&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
+
+</div>
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=872nl&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </div>
