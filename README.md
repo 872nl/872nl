@@ -2,7 +2,7 @@
 
 # 872nl
 
-### Learning by building.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Learning+by+building.;Building+useful+software.;Discord+Bot+Developer.;Keep+learning%2C+keep+building." />
 
 </div>
 
@@ -39,7 +39,7 @@ visitor@github:~$ _
 
 <td align="center">
 
-<img src="https://i.pinimg.com/originals/5f/3d/70/5f3d70884299307bc9ac3b748faf0a78.gif" width="280" />
+<img src="https://i.pinimg.com/originals/5f/3d/70/5f3d70884299307bc9ac3b748faf0a78.gif" width="320"/>
 
 </td>
 
@@ -50,17 +50,13 @@ visitor@github:~$ _
 
 <div align="center">
 
-### Tech Stack
-
-<img src="https://skillicons.dev/icons?i=python,nodejs,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=python,nodejs,mongodb,discordjs,github,vscode" />
 
 </div>
 
 ---
 
 <div align="center">
-
-### GitHub Stats
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=872nl&show_icons=true&theme=github_dark&hide_border=true"/>
 
