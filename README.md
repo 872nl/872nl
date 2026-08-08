@@ -17,8 +17,8 @@
 visitor@github:~$ ./profile
 
 Name           :: 872nl
-Role           :: Software Engineering Student
-Status         :: 🟢 Online
+Role           :: 
+Status         :: 🔴 Offline
 
 Mission
 ├─ Keep learning
